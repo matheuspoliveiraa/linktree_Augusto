@@ -19,7 +19,7 @@ O design foi pensado para ser moderno e funcional, com um toque pessoal e român
 - Espaço para colocar foto, nome e biografia 💬  
 
 ## 💌 Autor
-Desenvolvido por [**Matheus Oliveira**](https://github.com/mtheuspoliveiraa) com muito amor ❤️  
+Desenvolvido por [**Matheus Oliveira**](https://github.com/matheuspoliveiraa) com muito amor ❤️  
 
 ---
 
